@@ -1,2 +1,2 @@
-from Rect import Rectangle
-from Squ import Square
+from . import Rectangle
+from . import Square
