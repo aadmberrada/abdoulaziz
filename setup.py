@@ -9,6 +9,7 @@ setup(
   author_email = 'abdoulazizberrada@gmail.com',      # Type in your E-Mail
   url = 'https://github.com/aadmberrada/epsilon_',   # Provide either the link to your github or to your website
   download_url = 'https://github.com/aadmberrada/epsilon_/archive/v_01.tar.gz',    # I explain this later on
+  package_dir={'': '/Users/abdoul_aziz_berrada/Documents/Data Science/Epsilon'},
   keywords = ['SOME', 'MEANINGFULL', 'KEYWORDS'],   # Keywords that define your package best
   install_requires=[            # I get to this in a second
           'validators'
